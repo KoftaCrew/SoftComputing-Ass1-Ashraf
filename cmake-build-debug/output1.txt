@@ -2,7 +2,7 @@
 ------------------------------------------
 Best Fitness Acquired -> 58
 Items in the bag
-Indices : 2 3 4 5 
+Indices : 2 3 4 5
 Total weight : 14
 Total value : 58
 ------------------------------------------
@@ -10,7 +10,7 @@ Total value : 58
 ------------------------------------------
 Best Fitness Acquired -> 90
 Items in the bag
-Indices : 2 3 4 5 
+Indices : 2 3 4 5
 Total weight : 28
 Total value : 90
 ------------------------------------------
@@ -18,7 +18,7 @@ Total value : 90
 ------------------------------------------
 Best Fitness Acquired -> 130
 Items in the bag
-Indices : 1 3 4 5 
+Indices : 1 3 4 5
 Total weight : 23
 Total value : 130
 ------------------------------------------
@@ -26,7 +26,7 @@ Total value : 130
 ------------------------------------------
 Best Fitness Acquired -> 46
 Items in the bag
-Indices : 2 3 4 5 
+Indices : 2 3 4 5
 Total weight : 17
 Total value : 46
 ------------------------------------------
@@ -34,7 +34,7 @@ Total value : 46
 ------------------------------------------
 Best Fitness Acquired -> 197
 Items in the bag
-Indices : 2 3 4 6 7 8 9 
+Indices : 2 3 4 6 7 8 9
 Total weight : 43
 Total value : 197
 ------------------------------------------
@@ -42,7 +42,7 @@ Total value : 197
 ------------------------------------------
 Best Fitness Acquired -> 274
 Items in the bag
-Indices : 1 2 3 4 7 8 9 10 
+Indices : 1 2 3 4 7 8 9 10
 Total weight : 47
 Total value : 274
 ------------------------------------------
@@ -50,111 +50,111 @@ Total value : 274
 ------------------------------------------
 Best Fitness Acquired -> 236
 Items in the bag
-Indices : 1 2 3 4 5 7 8 10 
+Indices : 1 2 3 4 5 7 8 10
 Total weight : 33
 Total value : 236
 ------------------------------------------
 13
 ------------------------------------------
-Best Fitness Acquired -> 202
+Best Fitness Acquired -> 192
 Items in the bag
-Indices : 1 2 3 5 6 8 9 
-Total weight : 46
-Total value : 202
+Indices : 1 2 4 5 6 8 9
+Total weight : 49
+Total value : 192
 ------------------------------------------
 12
 ------------------------------------------
-Best Fitness Acquired -> 3811
+Best Fitness Acquired -> 3842
 Items in the bag
-Indices : 1 2 3 4 5 6 7 8 9 10 11 13 16 17 18 
-Total weight : 415
-Total value : 3811
+Indices : 1 3 4 5 6 7 8 9 10 11 12 13 16 17 18
+Total weight : 417
+Total value : 3842
 ------------------------------------------
 11
 ------------------------------------------
-Best Fitness Acquired -> 3174
+Best Fitness Acquired -> 3196
 Items in the bag
-Indices : 1 2 4 5 6 7 8 9 11 12 13 14 17 18 20 
-Total weight : 374
-Total value : 3174
+Indices : 1 2 3 5 6 7 8 9 11 12 13 14 17 18 19 20
+Total weight : 383
+Total value : 3196
 ------------------------------------------
 10
 ------------------------------------------
-Best Fitness Acquired -> 2568
+Best Fitness Acquired -> 2498
 Items in the bag
-Indices : 1 2 3 4 5 6 7 9 10 11 12 14 15 16 18 19 
-Total weight : 365
-Total value : 2568
+Indices : 1 2 3 4 6 7 9 10 12 13 14 15 16 18 19
+Total weight : 368
+Total value : 2498
 ------------------------------------------
 9
 ------------------------------------------
-Best Fitness Acquired -> 3253
+Best Fitness Acquired -> 3072
 Items in the bag
-Indices : 1 3 4 6 7 8 9 10 11 15 16 17 18 19 20 
-Total weight : 350
-Total value : 3253
+Indices : 1 3 4 6 7 8 9 12 13 14 16 18 19 20
+Total weight : 347
+Total value : 3072
 ------------------------------------------
 8
 ------------------------------------------
-Best Fitness Acquired -> 7488
+Best Fitness Acquired -> 8183
 Items in the bag
-Indices : 3 4 5 6 7 8 9 11 13 15 16 19 20 21 22 23 24 25 26 27 28 29 30 
-Total weight : 594
-Total value : 7488
+Indices : 1 2 3 4 6 7 8 10 11 12 13 15 16 19 21 22 23 24 25 26 27 28 29 30
+Total weight : 595
+Total value : 8183
 ------------------------------------------
 7
 ------------------------------------------
-Best Fitness Acquired -> 7985
+Best Fitness Acquired -> 7963
 Items in the bag
-Indices : 1 2 5 6 7 8 10 11 12 13 15 17 18 20 21 23 24 25 26 27 28 29 30 
-Total weight : 609
-Total value : 7985
+Indices : 1 2 4 6 8 10 11 12 13 15 17 18 19 20 21 23 24 25 26 27 28 29
+Total weight : 616
+Total value : 7963
 ------------------------------------------
 6
 ------------------------------------------
-Best Fitness Acquired -> 7870
+Best Fitness Acquired -> 7798
 Items in the bag
-Indices : 1 2 3 4 5 6 9 10 11 12 13 15 16 17 18 19 20 21 22 24 26 27 30 
-Total weight : 560
-Total value : 7870
+Indices : 1 2 3 4 5 7 9 10 11 12 13 14 15 16 17 19 20 21 22 25 26 27 29 30
+Total weight : 546
+Total value : 7798
 ------------------------------------------
 5
 ------------------------------------------
-Best Fitness Acquired -> 8224
+Best Fitness Acquired -> 8305
 Items in the bag
-Indices : 1 2 3 4 5 6 7 10 11 12 14 15 17 18 19 20 21 24 25 26 28 29 
-Total weight : 535
-Total value : 8224
+Indices : 2 3 4 5 6 9 10 11 12 13 14 15 17 18 19 20 21 23 24 25 26 28 29
+Total weight : 544
+Total value : 8305
 ------------------------------------------
 4
 ------------------------------------------
-Best Fitness Acquired -> 19041
+Best Fitness Acquired -> 19883
 Items in the bag
-Indices : 1 2 3 4 5 7 8 10 11 12 13 14 15 17 19 21 23 24 25 26 27 28 29 30 31 32 33 35 36 37 39 40 41 42 43 44 46 47 49 
-Total weight : 845
-Total value : 19041
+Indices : 1 2 3 5 6 7 8 10 11 12 14 15 16 17 19 21 23 25 26 27 28 29 30 31 32 33 35 36 37 39 40 41 42 43 46 47 49 50
+Total weight : 846
+Total value : 19883
 ------------------------------------------
 3
 ------------------------------------------
-Best Fitness Acquired -> 17470
+Best Fitness Acquired -> 17933
 Items in the bag
-Indices : 1 3 4 5 6 7 8 9 10 11 12 13 14 16 18 19 21 22 23 24 25 26 27 28 30 31 32 33 34 35 36 37 38 41 42 43 44 45 46 49 50 
-Total weight : 807
-Total value : 17470
+Indices : 1 2 3 4 6 7 8 9 10 11 12 14 16 17 18 19 21 22 24 25 26 27 28 30 32 34 35 36 37 38 39 40 42 43 44 45 46 47 49 50
+Total weight : 805
+Total value : 17933
 ------------------------------------------
 2
 ------------------------------------------
-Best Fitness Acquired -> 20814
+Best Fitness Acquired -> 20577
 Items in the bag
-Indices : 1 2 3 4 6 8 9 10 12 13 14 15 16 20 21 22 23 24 26 27 29 30 31 32 33 35 36 37 39 41 43 44 45 46 48 49 50 
-Total weight : 884
-Total value : 20814
+Indices : 1 4 5 7 8 9 10 11 12 14 15 16 17 18 21 23 25 26 27 29 30 31 32 33 34 35 36 37 39 40 41 43 44 46 48 49 50
+Total weight : 881
+Total value : 20577
 ------------------------------------------
 1
 ------------------------------------------
-Best Fitness Acquired -> 18451
+Best Fitness Acquired -> 18431
 Items in the bag
-Indices : 1 2 3 4 5 6 7 9 10 11 12 13 14 15 16 17 18 20 21 22 24 27 28 29 31 32 34 35 36 38 39 40 41 42 44 45 47 49 50 
-Total weight : 904
-Total value : 18451
+Indices : 1 2 3 4 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 24 27 28 29 31 32 33 36 38 39 40 41 42 43 44 45 49
+Total weight : 858
+Total value : 18132
 ------------------------------------------

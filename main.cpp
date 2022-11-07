@@ -159,14 +159,11 @@ int main() {
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
 
-    //Faster IO
-    cin.tie(nullptr); cout.tie(nullptr);
-    ios_base::sync_with_stdio(false);
-
     //Main Function
     int test_cases;
     cin >> test_cases;
     while (test_cases--){
+        cout << test_cases + 1 << '\n';
         doWork();
     }
     return 0;
