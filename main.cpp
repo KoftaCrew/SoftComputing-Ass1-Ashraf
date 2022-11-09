@@ -73,12 +73,8 @@ void doWork(){
         population[i].first = fitness(population[i].second, items);
 
     }
-    auto *best_individual = new pair<long long, vector<bool>>(0, vector<bool>(number_of_items, false));
     for (int i = 0; i < ITERATIONS; i++){
         sort(population.begin(), population.end());
-        if (population[POPULATION_SIZE - 1].first > best_individual->first){
-            best_individual = &population[POPULATION_SIZE - 1];
-        }
         vector <int> rank(POPULATION_SIZE);
         rank[0] = 1;
         for (int j = 1; j < POPULATION_SIZE; j++){
@@ -96,7 +92,8 @@ void doWork(){
                get_random_integer(1, (POPULATION_SIZE * (POPULATION_SIZE + 1) / 2) - 1)
        ) - rank.begin();
 
-       int crossover_index = get_random_integer(0, number_of_items - 1);
+
+       int crossover_index = get_random_integer(1, number_of_items - 2);
 
        pair<long long, vector <bool>> first_child(0, vector<bool>(number_of_items, false));
 
@@ -149,8 +146,7 @@ void doWork(){
        population[1].first = fitness(second_child.second, items);
 
     }
-
-    print_individual(*best_individual, items);
+    print_individual(*(max_element(population.begin(), population.end())), items);
 }
 
 
